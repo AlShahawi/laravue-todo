@@ -11,6 +11,7 @@ php artisan key:generate
 composer install
 npm install
 php artisan migrate --seed
+php artisan passport:install
 php artisan serv
 ```
 Open your browser and go to `http://localhost:8000` to see the application.
