@@ -3,8 +3,6 @@
 LaravueTodo is a SPA Task Manager Created using Laravel and Vue.JS.
 
 ## Installation
-TODO: Add Installation instructions.
-
 ```
 git clone https://github.com/AlShahawi/laravue-todo.git
 cp .env.example .env
